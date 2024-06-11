@@ -18,9 +18,10 @@ export const About = () => {
           className="flex max-w-2xl flex-col gap-6 text-xl md:text-center sm:text-lg"
         >
           <p>
-            I'm DevOps Engineer with over 3 years of experience in designing, implementing, and maintaining scalable and efficient CI/CD pipelines, automated infrastructure solutions. 
-            Expertise in leveraging cloud platforms, container orchestration, and infrastructure as code to drive operational excellence and streamline software delivery processes. 
-            Demonstrated success in fostering DevOps culture within organizations, enhancing collaboration between development and operations teams to achieve continuous delivery and rapid deployment cycles.
+            I'm a Results-oriented DevOps Engineer with a proven track record in
+            designing, implementing, and optimizing complex CI/CD pipelines,
+            infrastructure automation, managing deployment and monitoring
+            processes.
           </p>
           <p>
             Recognized as a ready to go learner and organized team player
