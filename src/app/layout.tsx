@@ -20,13 +20,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <HEAD>
+      <Head>
         <meta name="description" content={metadata.description} />
         <meta property="og:image" content="https://www.omersaifkazi.cloud/src/app/screenshot.png" />
         <meta property="og:title" content={metadata.title} />
         <meta property="og:description" content={metadata.description} />
         <meta property="og:type" content="website" />
-      </HEAD>
+      </Head>
       <body className={saira.className}>
         <Providers>{children}</Providers>
       </body>
